@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="change_server"
+        android:enabled="true"
+        android:shortcutShortLabel="@string/shortcut_server"
+        android:shortcutLongLabel="@string/shortcut_server">
+        <intent
+            android:action="id.musikpjj.app.CHANGE_SERVER"
+            android:targetPackage="id.musikpjj.app"
+            android:targetClass="id.musikpjj.app.MainActivity" />
+    </shortcut>
+</shortcuts>

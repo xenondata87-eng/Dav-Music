@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pemutar Musik</string>
+    <string name="shortcut_server">Ubah alamat server</string>
+</resources>
